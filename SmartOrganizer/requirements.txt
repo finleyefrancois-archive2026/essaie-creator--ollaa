@@ -1,0 +1,11 @@
+# Smart File Organizer - Requirements
+# The app works with zero dependencies (Python standard library only)
+# This file is for optional packaging into a standalone .exe
+
+# No external packages required!
+# The app uses only Python built-in modules:
+# - os, shutil, hashlib, json, sqlite3, datetime, pathlib
+# - http.server, webbrowser, threading, socket, mimetypes
+
+# Optional: For building standalone executable
+# pyinstaller>=5.0
